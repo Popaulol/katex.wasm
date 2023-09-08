@@ -1,9 +1,9 @@
 [package]
 name = "yew-katex"
 version = "0.19.0"
-authors = ["Aster <192607617@qq.com>"]
-description = "Render math with KaTeX in Yew!"
-repository = "https://github.com/oovm/yew-katex"
+authors = ["Aster <192607617@qq.com>", "Strawberry"]
+description = "Render math with KaTeX in Yew! But working with newer versions of yw"
+repository = "https://github.com/Popaulol/katex.wasm"
 readme = "../../Readme.md"
 license = "MPL-2.0"
 edition = "2018"
