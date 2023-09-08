@@ -1,5 +1,5 @@
 [package]
-name = "yew-katex"
+name = "yew-katex-new"
 version = "0.19.0"
 authors = ["Aster <192607617@qq.com>", "Strawberry"]
 description = "Render math with KaTeX in Yew! But working with newer versions of yw"
